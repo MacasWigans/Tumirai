@@ -1,0 +1,113 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tumirai.Pages.HomePage">
+    <Grid BackgroundColor="#0D0118" RowDefinitions=".05*, .1*, .45*, .05*, .05*, .3*">
+        <Label FontSize="16"
+               HorizontalOptions="Center"
+               Text="Home"
+               TextColor="White"
+               VerticalOptions="Center"/>
+
+        <Grid Grid.Row="1" Margin="25,10,25,10">
+            <RoundRectangle
+                CornerRadius="25"
+                Fill="#311B45"
+                HeightRequest="45"/>
+            <SearchBar
+                Text="{Binding ShipmentNumber}"
+                SearchCommand="{Binding SearchCommand}"
+                CancelButtonColor="White"
+                Placeholder="Enter shipment number..."
+                PlaceholderColor="#AC9DB9"
+                TextColor="White"
+                VerticalOptions="Center"/>
+        </Grid>
+
+        <!-- Loading Indicator -->
+        <ActivityIndicator
+            Grid.Row="2"
+            IsRunning="{Binding IsLoading}"
+            IsVisible="{Binding IsLoading}"
+            Color="White"
+            VerticalOptions="Start"
+            Margin="0,20"/>
+
+        <!-- Error Message -->
+        <Label
+            Grid.Row="2"
+            Text="{Binding ErrorMessage}"
+            TextColor="Red"
+            HorizontalOptions="Center"
+            VerticalOptions="Start"
+            IsVisible="{Binding ErrorMessage, Converter={StaticResource StringNotEmptyConverter}}"
+            Margin="20,20"/>
+
+        <!-- Tracking Card -->
+        <Border Grid.Row="2"
+                BackgroundColor="White"
+                StrokeThickness="0"
+                HeightRequest="240"
+                Margin="20,10,20,10"
+                Padding="15"
+                HorizontalOptions="Fill"
+                VerticalOptions="Start"
+                IsVisible="{Binding Sender, Converter={StaticResource StringNotEmptyConverter}}">
+            <Border.StrokeShape>
+                <RoundRectangle CornerRadius="20"/>
+            </Border.StrokeShape>
+            <VerticalStackLayout Spacing="5">
+                <Label Text="Shipment Number"
+                       FontSize="12"
+                       TextColor="Gray"/>
+                <Label Text="{Binding ShipmentNumber}"
+                       FontSize="16"
+                       FontAttributes="Bold"
+                       TextColor="Black"/>
+                <Grid ColumnDefinitions="0.5*, 0.5*">
+                    <VerticalStackLayout>
+                        <Label Text="Sender"
+                               FontSize="12"
+                               TextColor="Gray"/>
+                        <Label Text="{Binding Sender}"
+                               FontSize="14"
+                               TextColor="Black"/>
+                    </VerticalStackLayout>
+                </Grid>
+                <Grid ColumnDefinitions="0.5*, 0.5*">
+                    <VerticalStackLayout>
+                        <Label Text="Receiver"
+                               FontSize="12"
+                               TextColor="Gray"/>
+                        <Label Text="{Binding Receiver}"
+                               FontSize="14"
+                               TextColor="Black"/>
+                    </VerticalStackLayout>
+                </Grid>
+                <Grid ColumnDefinitions="0.5*, 0.5*">
+                    <VerticalStackLayout>
+                        <Label Text="Status"
+                               FontSize="12"
+                               TextColor="Gray"/>
+                        <Label Text="{Binding Status}"
+                               FontSize="14"
+                               TextColor="Black"/>
+                    </VerticalStackLayout>
+                </Grid>
+                
+            </VerticalStackLayout>
+        </Border>
+        
+        <Button Grid.Row="3"
+        Text="New Request"
+        TextColor="Black"
+        BackgroundColor="White"
+        CornerRadius="20"
+        HeightRequest="70"
+        Margin="20,10,20,10"
+        Padding="15"
+        HorizontalOptions="Fill"
+        VerticalOptions="Start"
+        Clicked="OnDeliveryTapped"/>
+
+    </Grid>
+</ContentPage>

@@ -1,0 +1,106 @@
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\appsettings.json
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\libman.json
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\tumirei-firebase-adminsdk-fbsvc-0c1b54e77f.json
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\TumiraiFirebaseAdminService.staticwebassets.endpoints.json
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\TumiraiFirebaseAdminService.exe
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\TumiraiFirebaseAdminService.deps.json
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\TumiraiFirebaseAdminService.runtimeconfig.json
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\TumiraiFirebaseAdminService.dll
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\TumiraiFirebaseAdminService.pdb
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\FirebaseAdmin.dll
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\Firebase.dll
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\Google.Api.Gax.dll
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\Google.Api.Gax.Rest.dll
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\LiteDB.dll
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\System.Management.dll
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\TumiraiFirebaseAdminService.csproj.AssemblyReference.cache
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\TumiraiFirebaseAdminService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\TumiraiFirebaseAdminService.AssemblyInfoInputs.cache
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\TumiraiFirebaseAdminService.AssemblyInfo.cs
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\TumiraiFirebaseAdminService.csproj.CoreCompileInputs.cache
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\TumiraiFirebaseAdminService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\TumiraiFirebaseAdminService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\scopedcss\bundle\TumiraiFirebaseAdminService.styles.css
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\staticwebassets\msbuild.TumiraiFirebaseAdminService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\staticwebassets\msbuild.TumiraiFirebaseAdminService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\staticwebassets\msbuild.build.TumiraiFirebaseAdminService.props
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TumiraiFirebaseAdminService.props
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TumiraiFirebaseAdminService.props
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\TumiraiF.CBB456E9.Up2Date
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\TumiraiFirebaseAdminService.dll
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\refint\TumiraiFirebaseAdminService.dll
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\TumiraiFirebaseAdminService.pdb
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\TumiraiFirebaseAdminService.genruntimeconfig.cache
+C:\Users\tapiw\Documents\Projects\Tadiwa Project\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\ref\TumiraiFirebaseAdminService.dll
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\appsettings.json
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\libman.json
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\tumirei-firebase-adminsdk-fbsvc-0c1b54e77f.json
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\TumiraiFirebaseAdminService.staticwebassets.endpoints.json
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\TumiraiFirebaseAdminService.exe
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\TumiraiFirebaseAdminService.deps.json
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\TumiraiFirebaseAdminService.runtimeconfig.json
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\TumiraiFirebaseAdminService.dll
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\TumiraiFirebaseAdminService.pdb
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\FirebaseAdmin.dll
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\Firebase.dll
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\Google.Api.Gax.dll
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\Google.Api.Gax.Rest.dll
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\LiteDB.dll
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\System.Management.dll
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\TumiraiFirebaseAdminService.csproj.AssemblyReference.cache
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\TumiraiFirebaseAdminService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\TumiraiFirebaseAdminService.AssemblyInfoInputs.cache
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\TumiraiFirebaseAdminService.AssemblyInfo.cs
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\TumiraiFirebaseAdminService.csproj.CoreCompileInputs.cache
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\TumiraiFirebaseAdminService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\TumiraiFirebaseAdminService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\scopedcss\bundle\TumiraiFirebaseAdminService.styles.css
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\staticwebassets\msbuild.TumiraiFirebaseAdminService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\staticwebassets\msbuild.TumiraiFirebaseAdminService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\staticwebassets\msbuild.build.TumiraiFirebaseAdminService.props
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TumiraiFirebaseAdminService.props
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TumiraiFirebaseAdminService.props
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\TumiraiF.CBB456E9.Up2Date
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\TumiraiFirebaseAdminService.dll
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\refint\TumiraiFirebaseAdminService.dll
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\TumiraiFirebaseAdminService.pdb
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\TumiraiFirebaseAdminService.genruntimeconfig.cache
+C:\Users\Macas\Desktop\Tumirai\TumiraiFirebaseAdminService\obj\Debug\net8.0\ref\TumiraiFirebaseAdminService.dll

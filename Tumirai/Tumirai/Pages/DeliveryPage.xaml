@@ -1,0 +1,73 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tumirai.Pages.DeliveryPage"
+             xmlns:maps="http://schemas.microsoft.com/dotnet/2021/maui/maps">
+    <Grid RowDefinitions="*,Auto" IgnoreSafeArea="true">
+        <!-- Map as Background -->
+        <maps:Map x:Name="DeliveryMap"
+                 Grid.Row="0"
+                 IsShowingUser="true"
+                 MapType="Street" 
+                 IsTrafficEnabled="False"/>
+        <!-- Address Details Form -->
+        <Border VerticalOptions="End" 
+              Grid.Row="1" 
+              HeightRequest="390" 
+              StrokeShape="RoundRectangle 25,25,0,0" 
+              StrokeThickness="0" 
+              Margin="-1,0,-1,0">
+            <Grid RowDefinitions="Auto,Auto,Auto,Auto,Auto,Auto,*" 
+                Padding="20,20,20,40" 
+                BackgroundColor="{AppThemeBinding Light={StaticResource TitleTextColor}, Dark={StaticResource Gray950}}">
+                <Label Text="Address Details" 
+                     HorizontalOptions="Start" 
+                     FontAttributes="Bold" 
+                     FontSize="30" 
+                     Grid.Row="0" 
+                     TextColor="{AppThemeBinding Light={StaticResource Primary}, Dark={StaticResource PrimaryLight}}"/>
+                <!-- Floor or Unit Number -->
+                <Entry x:Name="FloorEntry"
+                       Placeholder="Address"
+                       Margin="0,10,0,10"
+                       Grid.Row="1"/>
+                <!-- Phone Number -->
+                <Entry Placeholder="Phone number"
+                     Margin="0,10,0,10"
+                     Grid.Row="2"
+                     Text="{Binding Phonenumber}"/>
+                <!-- Name -->
+                <Entry Placeholder="Name"
+                     Margin="0,10,0,10"
+                     Grid.Row="3"
+                     Text="{Binding Name}"/>
+                <!-- Confirm Button -->
+                <Button Text="Confirm"
+                    Grid.Row="4"
+                    BackgroundColor="{AppThemeBinding Light={StaticResource Primary}, Dark={StaticResource PrimaryLight}}"
+                    TextColor="White"
+                    CornerRadius="25"
+                    HeightRequest="50"
+                    WidthRequest="200"
+                    HorizontalOptions="Center"
+                    VerticalOptions="End"
+                    Margin="0,0,0,20"
+                    Clicked="OnConfirmClicked"/>
+
+                <!-- Proceed Button (Initially Hidden) -->
+                <Button x:Name="ProceedButton"
+                    Text="Proceed"
+                    Grid.Row="5"
+                    BackgroundColor="{AppThemeBinding Light={StaticResource Primary}, Dark={StaticResource PrimaryLight}}"
+                    TextColor="White"
+                    CornerRadius="25"
+                    HeightRequest="50"
+                    WidthRequest="200"
+                    HorizontalOptions="Center"
+                    VerticalOptions="End"
+                    Margin="0,0,0,20"
+                    IsVisible="False"
+                    Clicked="OnProceedClicked"/>
+            </Grid>
+        </Border>
+    </Grid>
+</ContentPage>

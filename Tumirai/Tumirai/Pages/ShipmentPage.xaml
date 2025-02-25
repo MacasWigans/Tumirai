@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tumirai.Pages.ShipmentPage" BackgroundColor="#0D0118">
+
+    <Grid RowDefinitions="Auto,*,60">
+        <!-- Header -->
+        <Grid Padding="20,10" ColumnDefinitions="*,Auto">
+            <VerticalStackLayout Spacing="4">
+                <Label Text="Request History"
+                       TextColor="White"
+                       FontSize="24"
+                       FontAttributes="Bold"/>
+                <Label Text="Showing all your order history"
+                       TextColor="#666666"
+                       FontSize="14"/>
+            </VerticalStackLayout>
+            <Image Grid.Column="1"
+                   Source="notification.png"
+                   HeightRequest="24"
+                   WidthRequest="24">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnNotificationTapped"/>
+                </Image.GestureRecognizers>
+            </Image>
+        </Grid>
+
+        <!-- Orders List -->
+        <ScrollView Grid.Row="1" Margin="0,10,0,0">
+            <VerticalStackLayout Spacing="20" Padding="20,0,20,20">
+                <!-- Active Orders Section -->
+                <Label Text="Active requests"
+                       TextColor="White"
+                       FontSize="18"
+                       FontAttributes="Bold"/>
+
+                <Frame BackgroundColor="#1A1A1A"
+                       BorderColor="Transparent"
+                       Padding="15"
+                       CornerRadius="10">
+                    <Grid RowDefinitions="Auto,Auto" RowSpacing="15">
+                        <!-- Pickup Point -->
+                        <Grid ColumnDefinitions="Auto,*,Auto" ColumnSpacing="10">
+                            <Image Source="plus.png"
+                                   HeightRequest="20"
+                                   WidthRequest="20"/>
+                            <VerticalStackLayout Grid.Column="1" Spacing="2">
+                                <Label Text="456 Elm Street, Springfield"
+                                       TextColor="White"
+                                       FontSize="16"/>
+                                <Label Text="Pickup point"
+                                       TextColor="#666666"
+                                       FontSize="12"/>
+                            </VerticalStackLayout>
+                            <VerticalStackLayout Grid.Column="2" Spacing="2">
+                                <Label Text="Payment"
+                                       TextColor="#666666"
+                                       FontSize="12"
+                                       HorizontalOptions="End"/>
+                                <Label Text="$12"
+                                       TextColor="#50C878"
+                                       FontSize="16"
+                                       FontAttributes="Bold"
+                                       HorizontalOptions="End"/>
+                            </VerticalStackLayout>
+                        </Grid>
+
+                        <!-- Destination -->
+                        <Grid Grid.Row="1" ColumnDefinitions="Auto,*,Auto" ColumnSpacing="10">
+                            <Image Source="location.png"
+                                   HeightRequest="20"
+                                   WidthRequest="20"/>
+                            <VerticalStackLayout Grid.Column="1" Spacing="2">
+                                <Label Text="739 Main Street, Springfield"
+                                       TextColor="White"
+                                       FontSize="16"/>
+                                <Label Text="Destination"
+                                       TextColor="#666666"
+                                       FontSize="12"/>
+                            </VerticalStackLayout>
+                            <VerticalStackLayout Grid.Column="2" Spacing="2">
+                                <Label Text="Distance"
+                                       TextColor="#666666"
+                                       FontSize="12"
+                                       HorizontalOptions="End"/>
+                                <Label Text="12Km"
+                                       TextColor="White"
+                                       FontSize="16"
+                                       HorizontalOptions="End"/>
+                            </VerticalStackLayout>
+                        </Grid>
+                    </Grid>
+                </Frame>
+
+                <!-- Past Orders Section -->
+                <Label Text="Past requests"
+                       TextColor="White"
+                       FontSize="18"
+                       FontAttributes="Bold"
+                       Margin="0,10,0,0"/>
+
+                <!-- Past Order Template (Repeat for each past order) -->
+                <Frame BackgroundColor="#1A1A1A"
+                       BorderColor="Transparent"
+                       Padding="15"
+                       CornerRadius="10">
+                    <!-- Same grid structure as active order -->
+                    <!-- Copy the Grid structure from above -->
+                </Frame>
+            </VerticalStackLayout>
+        </ScrollView>
+
+        <!-- Bottom Navigation -->
+        <Grid Grid.Row="2"
+              ColumnDefinitions="*,*,*,*"
+              BackgroundColor="#1A1A1A"
+              Padding="0,5">
+
+            <VerticalStackLayout Grid.Column="0"
+                                Spacing="4"
+                                HorizontalOptions="Center">
+                <Image Source="home.png"
+                       HeightRequest="24"
+                       WidthRequest="24"/>
+                <Label Text="Home"
+                       TextColor="#666666"
+                       FontSize="12"/>
+            </VerticalStackLayout>
+
+            <VerticalStackLayout Grid.Column="1"
+                                Spacing="4"
+                                HorizontalOptions="Center">
+                <Image Source="orders.png"
+                       HeightRequest="24"
+                       WidthRequest="24"/>
+                <Label Text="Orders"
+                       TextColor="White"
+                       FontSize="12"/>
+            </VerticalStackLayout>
+
+            <VerticalStackLayout Grid.Column="2"
+                                Spacing="4"
+                                HorizontalOptions="Center">
+                <Image Source="stops.png"
+                       HeightRequest="24"
+                       WidthRequest="24"/>
+                <Label Text="Stops"
+                       TextColor="#666666"
+                       FontSize="12"/>
+            </VerticalStackLayout>
+
+            <VerticalStackLayout Grid.Column="3"
+                                Spacing="4"
+                                HorizontalOptions="Center">
+                <Image Source="account.png"
+                       HeightRequest="24"
+                       WidthRequest="24"/>
+                <Label Text="Account"
+                       TextColor="#666666"
+                       FontSize="12"/>
+            </VerticalStackLayout>
+        </Grid>
+    </Grid>
+</ContentPage>

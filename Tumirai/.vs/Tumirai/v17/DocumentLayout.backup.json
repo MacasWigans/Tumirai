@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Macas\\Desktop\\Tumirai\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|c:\\users\\macas\\desktop\\tumirai\\tumirai\\services\\firebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|solutionrelative:tumirai\\services\\firebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|c:\\users\\macas\\desktop\\tumirai\\tumirai\\models\\shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|solutionrelative:tumirai\\models\\shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D8B224-928A-4939-A516-30AFA147D451}|TumiraiFirebaseAdminService\\TumiraiFirebaseAdminService.csproj|c:\\users\\macas\\desktop\\tumirai\\tumiraifirebaseadminservice\\tumiraifirebaseadminservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E7D8B224-928A-4939-A516-30AFA147D451}|TumiraiFirebaseAdminService\\TumiraiFirebaseAdminService.csproj|solutionrelative:tumiraifirebaseadminservice\\tumiraifirebaseadminservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|c:\\users\\macas\\desktop\\tumirai\\tumirai\\pages\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|solutionrelative:tumirai\\pages\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|c:\\users\\macas\\desktop\\tumirai\\tumirai\\viewmodels\\deliveryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|solutionrelative:tumirai\\viewmodels\\deliveryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|c:\\users\\macas\\desktop\\tumirai\\tumirai\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|solutionrelative:tumirai\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|c:\\users\\macas\\desktop\\tumirai\\tumirai\\pages\\shipmentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|solutionrelative:tumirai\\pages\\shipmentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|c:\\users\\macas\\desktop\\tumirai\\tumirai\\pages\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|solutionrelative:tumirai\\pages\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|c:\\users\\macas\\desktop\\tumirai\\tumirai\\pages\\signupview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|solutionrelative:tumirai\\pages\\signupview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|c:\\users\\macas\\desktop\\tumirai\\tumirai\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|solutionrelative:tumirai\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|c:\\users\\macas\\desktop\\tumirai\\tumirai\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|solutionrelative:tumirai\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|c:\\users\\macas\\desktop\\tumirai\\tumirai\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|solutionrelative:tumirai\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D8B224-928A-4939-A516-30AFA147D451}|TumiraiFirebaseAdminService\\TumiraiFirebaseAdminService.csproj|c:\\users\\macas\\desktop\\tumirai\\tumiraifirebaseadminservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D8B224-928A-4939-A516-30AFA147D451}|TumiraiFirebaseAdminService\\TumiraiFirebaseAdminService.csproj|solutionrelative:tumiraifirebaseadminservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|c:\\users\\macas\\desktop\\tumirai\\tumirai\\pages\\deliverypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|solutionrelative:tumirai\\pages\\deliverypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|c:\\users\\macas\\desktop\\tumirai\\tumirai\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|solutionrelative:tumirai\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|c:\\users\\macas\\desktop\\tumirai\\tumirai\\tumirai.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|solutionrelative:tumirai\\tumirai.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|c:\\users\\macas\\desktop\\tumirai\\tumirai\\pages\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|solutionrelative:tumirai\\pages\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|c:\\users\\macas\\desktop\\tumirai\\tumirai\\pages\\signupview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|solutionrelative:tumirai\\pages\\signupview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|c:\\users\\macas\\desktop\\tumirai\\tumirai\\pages\\signinview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|solutionrelative:tumirai\\pages\\signinview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|c:\\users\\macas\\desktop\\tumirai\\tumirai\\pages\\dashboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|solutionrelative:tumirai\\pages\\dashboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|c:\\users\\macas\\desktop\\tumirai\\tumirai\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|solutionrelative:tumirai\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|c:\\users\\macas\\desktop\\tumirai\\tumirai\\pages\\productdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A3916C-35E9-49F0-A91B-337B6D68203D}|Tumirai\\Tumirai.csproj|solutionrelative:tumirai\\pages\\productdetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeliveryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\ViewModels\\DeliveryViewModel.cs",
+              "RelativeDocumentMoniker": "Tumirai\\ViewModels\\DeliveryViewModel.cs",
+              "ToolTip": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\ViewModels\\DeliveryViewModel.cs",
+              "RelativeToolTip": "Tumirai\\ViewModels\\DeliveryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:35:55.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FirebaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\Services\\FirebaseService.cs",
+              "RelativeDocumentMoniker": "Tumirai\\Services\\FirebaseService.cs",
+              "ToolTip": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\Services\\FirebaseService.cs*",
+              "RelativeToolTip": "Tumirai\\Services\\FirebaseService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:15:17.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shipment.cs",
+              "DocumentMoniker": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\Models\\Shipment.cs",
+              "RelativeDocumentMoniker": "Tumirai\\Models\\Shipment.cs",
+              "ToolTip": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\Models\\Shipment.cs",
+              "RelativeToolTip": "Tumirai\\Models\\Shipment.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAywBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T03:13:34.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TumiraiFirebaseAdminService.csproj",
+              "DocumentMoniker": "C:\\Users\\Macas\\Desktop\\Tumirai\\TumiraiFirebaseAdminService\\TumiraiFirebaseAdminService.csproj",
+              "RelativeDocumentMoniker": "TumiraiFirebaseAdminService\\TumiraiFirebaseAdminService.csproj",
+              "ToolTip": "C:\\Users\\Macas\\Desktop\\Tumirai\\TumiraiFirebaseAdminService\\TumiraiFirebaseAdminService.csproj",
+              "RelativeToolTip": "TumiraiFirebaseAdminService\\TumiraiFirebaseAdminService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-24T04:03:33.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignUpViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\Pages\\SignUpViewModel.cs",
+              "RelativeDocumentMoniker": "Tumirai\\Pages\\SignUpViewModel.cs",
+              "ToolTip": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\Pages\\SignUpViewModel.cs",
+              "RelativeToolTip": "Tumirai\\Pages\\SignUpViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T19:23:50.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Tumirai\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\MauiProgram.cs",
+              "RelativeToolTip": "Tumirai\\MauiProgram.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwCYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:20:30.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShipmentPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\Pages\\ShipmentPage.xaml.cs",
+              "RelativeDocumentMoniker": "Tumirai\\Pages\\ShipmentPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\Pages\\ShipmentPage.xaml.cs",
+              "RelativeToolTip": "Tumirai\\Pages\\ShipmentPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:41:38.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProfilePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\Pages\\ProfilePage.xaml",
+              "RelativeDocumentMoniker": "Tumirai\\Pages\\ProfilePage.xaml",
+              "ToolTip": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\Pages\\ProfilePage.xaml",
+              "RelativeToolTip": "Tumirai\\Pages\\ProfilePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-23T15:45:02.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SignUpView.xaml",
+              "DocumentMoniker": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\Pages\\SignUpView.xaml",
+              "RelativeDocumentMoniker": "Tumirai\\Pages\\SignUpView.xaml",
+              "ToolTip": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\Pages\\SignUpView.xaml",
+              "RelativeToolTip": "Tumirai\\Pages\\SignUpView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-17T05:52:53.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Tumirai\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\AppShell.xaml",
+              "RelativeToolTip": "Tumirai\\AppShell.xaml",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwB0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-13T06:20:42.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\Pages\\HomePage.xaml",
+              "RelativeDocumentMoniker": "Tumirai\\Pages\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\Pages\\HomePage.xaml",
+              "RelativeToolTip": "Tumirai\\Pages\\HomePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-13T05:55:50.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Tumirai\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\AppShell.xaml.cs",
+              "RelativeToolTip": "Tumirai\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T19:46:00.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Macas\\Desktop\\Tumirai\\TumiraiFirebaseAdminService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TumiraiFirebaseAdminService\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Macas\\Desktop\\Tumirai\\TumiraiFirebaseAdminService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TumiraiFirebaseAdminService\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T03:11:00.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeliveryPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\Pages\\DeliveryPage.xaml",
+              "RelativeDocumentMoniker": "Tumirai\\Pages\\DeliveryPage.xaml",
+              "ToolTip": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\Pages\\DeliveryPage.xaml",
+              "RelativeToolTip": "Tumirai\\Pages\\DeliveryPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-13T05:56:10.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Tumirai\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Tumirai\\Platforms\\Android\\AndroidManifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-02-23T16:06:41.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Tumirai",
+              "DocumentMoniker": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\Tumirai.csproj",
+              "RelativeDocumentMoniker": "Tumirai\\Tumirai.csproj",
+              "ToolTip": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\Tumirai.csproj",
+              "RelativeToolTip": "Tumirai\\Tumirai.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-19T13:21:01.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SignUpView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\Pages\\SignUpView.xaml.cs",
+              "RelativeDocumentMoniker": "Tumirai\\Pages\\SignUpView.xaml.cs",
+              "ToolTip": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\Pages\\SignUpView.xaml.cs",
+              "RelativeToolTip": "Tumirai\\Pages\\SignUpView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T19:22:57.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SignInViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\Pages\\SignInViewModel.cs",
+              "RelativeDocumentMoniker": "Tumirai\\Pages\\SignInViewModel.cs",
+              "ToolTip": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\Pages\\SignInViewModel.cs",
+              "RelativeToolTip": "Tumirai\\Pages\\SignInViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T08:18:39.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SignInView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\Pages\\SignInView.xaml.cs",
+              "RelativeDocumentMoniker": "Tumirai\\Pages\\SignInView.xaml.cs",
+              "ToolTip": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\Pages\\SignInView.xaml.cs",
+              "RelativeToolTip": "Tumirai\\Pages\\SignInView.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T08:17:27.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DashboardView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\Pages\\DashboardView.xaml.cs",
+              "RelativeDocumentMoniker": "Tumirai\\Pages\\DashboardView.xaml.cs",
+              "ToolTip": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\Pages\\DashboardView.xaml.cs",
+              "RelativeToolTip": "Tumirai\\Pages\\DashboardView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T08:19:19.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\Pages\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "Tumirai\\Pages\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\Pages\\HomePage.xaml.cs",
+              "RelativeToolTip": "Tumirai\\Pages\\HomePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:14:58.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductDetails.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\Pages\\ProductDetails.xaml.cs",
+              "RelativeDocumentMoniker": "Tumirai\\Pages\\ProductDetails.xaml.cs",
+              "ToolTip": "C:\\Users\\Macas\\Desktop\\Tumirai\\Tumirai\\Pages\\ProductDetails.xaml.cs",
+              "RelativeToolTip": "Tumirai\\Pages\\ProductDetails.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:42:39.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

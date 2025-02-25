@@ -1,0 +1,100 @@
+is_global = true
+build_property.MvvmToolkitEnableINotifyPropertyChangingSupport = true
+build_property._MvvmToolkitIsUsingWindowsRuntimePack = true
+build_property.CsWinRTComponent = 
+build_property.CsWinRTAotOptimizerEnabled = true
+build_property.CsWinRTAotOptimizerEnabled = true
+build_property.CsWinRTAotWarningLevel = 
+build_property.CsWinRTAotWarningLevel = 
+build_property.TargetFramework = net9.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Tumirai
+build_property.ProjectDir = C:\Users\Macas\Desktop\Tumirai\Tumirai\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTAotExportsEnabled = 
+build_property.CsWinRTRcwFactoryFallbackGeneratorForceOptIn = 
+build_property.CsWinRTRcwFactoryFallbackGeneratorForceOptOut = 
+build_property.CsWinRTCcwLookupTableGeneratorEnabled = true
+build_property.CsWinRTMergeReferencedActivationFactories = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Macas/Desktop/Tumirai/Tumirai/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Tumirai.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Macas/Desktop/Tumirai/Tumirai/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Tumirai.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Macas/Desktop/Tumirai/Tumirai/Pages/DashboardView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Tumirai.Pages.DashboardView.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\DashboardView.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\DashboardView.xaml
+
+[C:/Users/Macas/Desktop/Tumirai/Tumirai/Pages/DeliveryPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Tumirai.Pages.DeliveryPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\DeliveryPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\DeliveryPage.xaml
+
+[C:/Users/Macas/Desktop/Tumirai/Tumirai/Pages/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Tumirai.Pages.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\HomePage.xaml
+
+[C:/Users/Macas/Desktop/Tumirai/Tumirai/Pages/ProductDetails.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Tumirai.Pages.ProductDetails.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ProductDetails.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ProductDetails.xaml
+
+[C:/Users/Macas/Desktop/Tumirai/Tumirai/Pages/ProfilePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Tumirai.Pages.ProfilePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ProfilePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ProfilePage.xaml
+
+[C:/Users/Macas/Desktop/Tumirai/Tumirai/Pages/ShipmentPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Tumirai.Pages.ShipmentPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ShipmentPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ShipmentPage.xaml
+
+[C:/Users/Macas/Desktop/Tumirai/Tumirai/Pages/SignInView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Tumirai.Pages.SignInView.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\SignInView.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\SignInView.xaml
+
+[C:/Users/Macas/Desktop/Tumirai/Tumirai/Pages/SignUpView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Tumirai.Pages.SignUpView.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\SignUpView.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\SignUpView.xaml
+
+[C:/Users/Macas/Desktop/Tumirai/Tumirai/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Tumirai.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Macas/Desktop/Tumirai/Tumirai/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Tumirai.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

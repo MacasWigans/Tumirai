@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tumirai.Pages.SignInView"
+             Title="SignIn">
+
+    <Grid RowDefinitions="*,Auto" IgnoreSafeArea="true">
+        <!-- Background Image -->
+
+        <Image Source="{AppThemeBinding Light=loginbackground.png, Dark=loginbackground_black.png}" 
+               Aspect="AspectFill"
+               Margin="0,0,0,-40"/>
+
+        <!-- App Title and Tagline -->
+        <Label Text="Tumirai" 
+               HorizontalOptions="Center" 
+               VerticalTextAlignment="Center" 
+               FontSize="40" 
+               TextColor="{AppThemeBinding Light={StaticResource Gray950}, Dark={StaticResource Gray50}}"/>
+        <Label Text="Send with Confidence, Receive with Ease." 
+               HorizontalOptions="Center" 
+               VerticalTextAlignment="Center" 
+               FontSize="14" 
+               Margin="0,60,0,0" 
+               TextColor="{AppThemeBinding Light={StaticResource Gray950}, Dark={StaticResource Gray200}}"/>
+
+        <!-- Login Form -->
+        <Border VerticalOptions="End" 
+                Grid.Row="1" 
+                HeightRequest="490" 
+                StrokeShape="RoundRectangle 25,25,0,0" 
+                StrokeThickness="0" 
+                Margin="-1,0,-1,0">
+            <Grid RowDefinitions="Auto,Auto,Auto,Auto, Auto, *" 
+                  Padding="20,20,20,40" 
+                  BackgroundColor="{AppThemeBinding Light={StaticResource TitleTextColor}, Dark={StaticResource Gray950}}">
+
+                <!-- Welcome Message -->
+                <Label Text="Welcome" 
+                       HorizontalOptions="Center" 
+                       FontAttributes="Bold" 
+                       FontSize="30" 
+                       Grid.Row="0" 
+                       TextColor="{AppThemeBinding Light={StaticResource Primary}, Dark={StaticResource PrimaryLight}}"/>
+                <Label Text="Please Login or Register to continue" 
+                       HorizontalOptions="Center" 
+                       Grid.Row="1"/>
+
+
+                <!-- Email Entry -->
+                <Entry Placeholder="Email"
+                       Margin="0,20,0,20"
+                       Grid.Row="2"
+                       Text="{Binding Email}"/>
+
+                <!-- Password Entry -->
+                <Entry Placeholder="Password"
+                       Margin="0,20,0,20"
+                       Grid.Row="3"
+                       IsPassword="True"
+                       Text="{Binding Password}"/>
+
+                <!-- Actions (Sign Up / Sign In) -->
+                <StackLayout Orientation="Vertical" Grid.Row="5" VerticalOptions="End">
+                    <StackLayout Orientation="Horizontal" 
+                                     Margin="0,0,0,20" 
+                                     HorizontalOptions="Center">
+                        <Label Text="Don't have an account?"/>
+
+                        <Label Text="Sign Up" 
+                                   TextColor="Blue"
+       
+                                   HorizontalOptions="Center"
+                                   VerticalOptions="Center"
+                                       >
+                            <Label.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="OnSignUpTapped"/>
+                            </Label.GestureRecognizers>
+                        </Label>
+
+                    </StackLayout>
+                    <Button Text="Sign In" 
+                                Command="{Binding SignInCommand}"/>
+
+                </StackLayout>
+            </Grid>
+        </Border>
+    </Grid>
+</ContentPage>

@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Tumirai\\Tumirai.csproj",
+        "Action": "Start",
+        "DebugTarget": "Hisense E40 (Android 10.0 - API 29)"
+      },
+      {
+        "Path": "TumiraiFirebaseAdminService\\TumiraiFirebaseAdminService.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      }
+    ]
+  }
+]

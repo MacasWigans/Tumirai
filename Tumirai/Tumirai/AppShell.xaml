@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="Tumirai.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:pages="clr-namespace:Tumirai.Pages"
+    Shell.FlyoutBehavior="Disabled"
+    Title="Tumirai">
+
+    <!-- Standalone pages -->
+    <ShellContent
+        Title="SignIn"
+        ContentTemplate="{DataTemplate pages:SignInView}"
+        Route="SignIn" />
+
+    <ShellContent
+        Title="SignUp"
+        ContentTemplate="{DataTemplate pages:SignUpView}"
+        Route="SignUp" />
+
+    <!-- Dashboard as a container for the three pages -->
+    <FlyoutItem Title="Dashboard" Route="Dashboard">
+        <Tab Title="Home" Icon="home.png">
+            <ShellContent ContentTemplate="{DataTemplate pages:HomePage}" />
+        </Tab>
+        <Tab Title="Shipment" Icon="shipment.png">
+            <ShellContent ContentTemplate="{DataTemplate pages:ShipmentPage}" />
+        </Tab>
+        <Tab Title="Profile" Icon="profile.png">
+            <ShellContent ContentTemplate="{DataTemplate pages:ProfilePage}" />
+        </Tab>
+    </FlyoutItem>
+
+    <ShellContent
+        ContentTemplate="{DataTemplate pages:DeliveryPage}"
+        Route="Delivery" />
+
+    <ShellContent
+    ContentTemplate="{DataTemplate pages:ProductDetails}"
+    Route="Product" />
+
+</Shell>
