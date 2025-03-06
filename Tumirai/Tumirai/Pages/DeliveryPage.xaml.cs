@@ -27,7 +27,6 @@ public partial class DeliveryPage : ContentPage
 
             // Get Destination Address from the Entry field
             string address = FloorEntry.Text;
-
             if (string.IsNullOrWhiteSpace(address))
             {
                 await DisplayAlert("Error", "Please enter a floor or unit number", "OK");
